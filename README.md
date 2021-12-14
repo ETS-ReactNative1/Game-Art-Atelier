@@ -8,15 +8,14 @@ A Video Game Art Gallery: My Final Project for the Course "Mobile Programming" o
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/hffriman/Game-Art-Atelier">
+    <img src="images/GameArtAtelier.png" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
