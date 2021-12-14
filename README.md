@@ -29,8 +29,8 @@ A Video Game Art Gallery: My Final Project for the Course "Mobile Programming" o
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://img.shields.io/github/stars/hffriman/Game-Art-Atelier">
+    <img src="images/GameArtAtelier.png" alt="Logo" width="300" height="300">
   </a>
 
 <h3 align="center">project_title</h3>
@@ -82,24 +82,20 @@ A Video Game Art Gallery: My Final Project for the Course "Mobile Programming" o
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+Explanation of the project:
+  What it is?
+  How it works (pages, functionalities)
+  What it uses?
+ 
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [React Native](https://reactnative.dev/)
+* [Expo](https://expo.dev/)
+* [IGDB](https://api-docs.igdb.com/#about)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -226,4 +222,3 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-shield]: https://img.shields.io/github/license/hffriman/Game-Art-Atelier.svg?style=for-the-badge
 [license-url]: https://github.com/hffriman/Game-Art-Atelier/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
-
