@@ -99,7 +99,20 @@ You can also use this app to send feedback to me (the developer) by using the Fe
 ### Screenshots
 
 #### Android Version
-
+<div align="center">
+  <img src="images/android-screenshot-1.jpg" width="30%" height="30%">
+</div>
+<div>
+   <img src="images/android-screenshot-2.jpg" width="30%" height="30%">
+   <img src="images/android-screenshot-3.jpg" width="30%" height="30%">   
+   <img src="images/android-screenshot-4.jpg" width="30%" height="30%">
+   <img src="images/android-screenshot-5.jpg" width="30%" height="30%">
+   <img src="images/android-screenshot-6.jpg" width="30%" height="30%">
+   <img src="images/android-screenshot-7.jpg" width="30%" height="30%">
+</div>
+<div align="center">
+    <img src="images/ios-screenshot-8.jpg" width="30%" height="30%">
+</div>
 
 
 #### iOS Version
