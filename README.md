@@ -41,7 +41,7 @@ A Video Game Art Gallery: My Final Project for the Course "Mobile Programming" o
     <a href="https://github.com/hffriman/Game-Art-Atelier"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://expo.dev/@hffriman/Game-Art-Atelier">View Demo</a>
     ·
     <a href="https://github.com/hffriman/Game-Art-Atelier/issues">Report Bug</a>
     ·
@@ -120,29 +120,37 @@ You can also use this app to send feedback to me (the developer) by using the Fe
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+If you want to run this project in your app, there are things you have to do first:
 
+**1. IGDB API (for API fetching):**
+  - You must create a Twitch account and register your own app in order to get your own **Client ID** and **Client Secret**
+  - With Cliend ID and Client Secret, you will get your own **Access Token** and **Token Type**
+  - All the necessary instructions are here: https://api-docs.igdb.com/#account-creation
+
+**2. Expo app (for using the app in your phone)**
+  - Install the Expo app to your phone
+  - Google Play (Android) and App Store (iOS)   
+
+**3. Expo Cli (for making the app usable from your phone)**
+  - Install the Expo Cli in your computer from the command line 
+  * npm
+      ```sh
+      npm install –g expo-cli
+      ```
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+3. Create a file .env
+3. Enter your **Client ID** ** in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
