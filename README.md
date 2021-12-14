@@ -97,13 +97,11 @@ You can also use this app to send feedback to me (the developer) by using the Fe
 
 ### Screenshots
 
-
-#### IOS
-
+#### Android Version
 
 
-#### Android
- 
+
+#### iOS Version
 
 
 ### Built With
@@ -134,29 +132,35 @@ If you want to run this project in your app, there are things you have to do fir
   - Google Play (Android) and App Store (iOS)   
 
 **3. Expo Cli (for making the app usable from your phone)**
-  - Install the Expo Cli in your computer from the command line 
-  * npm
-      ```sh
-      npm install –g expo-cli
-      ```
+  - Install the Expo Cli in your computer from the command line <br> <br>
+     ```sh
+     npm install –g expo-cli
+     ```
 ### Installation
 
-1. Clone the repo
+1. Clone the repository
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/hffriman/Game-Art-Atelier.git
    ```
 2. Install NPM packages
    ```sh
    npm install
    ```
-3. Create a file .env
-3. Enter your **Client ID** ** in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+3. Create a file .env in the root of your project and add these inside of it:
+    ```
+    TWITCH_CLIENT_ID = YOUR CLIENT ID
+    TWITCH_AUTHORIZATION = YOUR TOKEN TYPE YOUR CLIENT SECRET
+    ```
+4. Replace YOUR CLIENT ID, YOUR TOKEN TYPE and YOUR CLIENT SECRET with the values you are granted: <br>
+    - Tip 1: The Token Type's First Letter Must Be In Capital (example: bearer -> Bearer)** <br>
+    - Tip 2: There Must Be Space Between Token Type and the Client Secret (only one space)** <br>
+
+5. Launch the app when you are ready:
+    ```sh
+    npm start
+    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
