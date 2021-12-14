@@ -33,10 +33,10 @@ A Video Game Art Gallery: My Final Project for the Course "Mobile Programming" o
     <img src="images/GameArtAtelier.png" alt="Logo" width="300" height="300">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Game Art Atelier</h3>
 
   <p align="center">
-    project_description
+    A Gallery Dedicated to Visual Arts in Video Games
     <br />
     <a href="https://github.com/hffriman/Game-Art-Atelier"><strong>Explore the docs »</strong></a>
     <br />
