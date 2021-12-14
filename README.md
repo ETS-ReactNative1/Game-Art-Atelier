@@ -32,6 +32,7 @@ A Video Game Art Gallery: My Final Project for the Course "Mobile Programming" o
   <a href="https://img.shields.io/github/stars/hffriman/Game-Art-Atelier">
     <img src="images/GameArtAtelier.png" alt="Logo" width="300" height="300">
   </a>
+ </div>
 
 <h3 align="center">Game Art Atelier</h3>
 
@@ -99,15 +100,25 @@ You can also use this app to send feedback to me (the developer) by using the Fe
 
 #### Android Version
 
-<div align="center">
-    <img src="images/ios-screenshot1.png" width="300" height="300">
-</div>
-
 
 
 #### iOS Version
+<div align="center">
+    <img src="images/ios-screenshot-1.jpg" width="30%" height="30%">
+</div>
+<div>
+   <img src="images/ios-screenshot-2.jpg" width="30%" height="30%">
+   <img src="images/ios-screenshot-3.jpg" width="30%" height="30%">   
+   <img src="images/ios-screenshot-4.jpg" width="30%" height="30%">
+   <img src="images/ios-screenshot-5.jpg" width="30%" height="30%">
+   <img src="images/ios-screenshot-6.jpg" width="30%" height="30%">
+   <img src="images/ios-screenshot-7.jpg" width="30%" height="30%">
+</div>
+<div align="center">
+    <img src="images/ios-screenshot-8.jpg" width="30%" height="30%">
+</div>
 
-
+   
 ### Built With
 
 * [React.js](https://reactjs.org/)
