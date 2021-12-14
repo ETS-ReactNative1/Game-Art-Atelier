@@ -112,7 +112,7 @@ export default function SearchCovers( { navigation } ) {
               onPress={() => saveItem(item.id, item.game.name, item.image_id)}>
             </Ionicons>
             <Image
-              style={{width: 300, height: 350, resizeMode: 'contain'}}
+              style={{width: 250, height: 250, resizeMode: 'contain'}}
               source={{uri:"https://images.igdb.com/igdb/image/upload/t_720p/" + item.image_id + ".jpg"}}
             />
           </View>}
@@ -134,13 +134,13 @@ const styles = StyleSheet.create({
    backgroundColor: '#FCFDCF',
    borderWidth: 10,
    padding: 9,
-   borderColor: '#9D8029',
+   borderColor: '#9D299D',
    alignItems: 'center',
    justifyContent: 'center',
   },
   searchbar:{
    borderWidth: 7,
-   borderColor: '#9D8029',
+   borderColor: '#9D299D',
   },
   button: {
    flexDirection: 'row',
