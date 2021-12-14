@@ -84,11 +84,27 @@ A Video Game Art Gallery: My Final Project for the Course "Mobile Programming" o
 
 [![Product Name Screen Shot][product-screenshot]]
 
-Explanation of the project:
-  What it is?
-  How it works (pages, functionalities)
-  What it uses?
+### Introduction
+
+"Game Art Atelier" is dedicated to people who appreciate the visual part of video games.
+
+With this application, you can search for production artworks, game covers and character designs, as well as save them to three Favourites lists (Favourite Artworks, Favourite Covers, Favourite Covers). 
+
+You can always delete things you have saved from the Favourites lists. After deletion of each object, you will be automatically sent back to the front page in order to update the changes.
+
+You can also use this app to send feedback to me (the developer) by using the Feedback screen. With this function, you can write the subject and the content of your feedback in the text boxes -- after pressing the Send button, you will be redirected to your own mail application, where you have to only finish the sending of the email. Please make sure you have a mail application in your phone if you want to use the feedback function.
+
+
+### Screenshots
+
+
+#### IOS
+
+
+
+#### Android
  
+
 
 ### Built With
 
