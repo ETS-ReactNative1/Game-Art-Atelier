@@ -100,36 +100,39 @@ You can also use this app to send feedback to me (the developer) by using the Fe
 
 #### Android Version
 <div align="center">
-  <img src="images/android-screenshot-1.jpg" width="30%" height="30%">
+   <img src="images/android-screenshot-1.jpg" width="23%" height="23%">
+   <img src="images/android-screenshot-2.jpg" width="23%" height="23%">
+   <img src="images/android-screenshot-3.jpg" width="23%" height="23%">   
+   <img src="images/android-screenshot-4.jpg" width="23%" height="23%">
+ </div>
+ <br>
+ <br>
+ <div align="center">
+   <img src="images/android-screenshot-5.jpg" width="23%" height="23%">
+   <img src="images/android-screenshot-6.jpg" width="23%" height="23%">
+   <img src="images/android-screenshot-7.jpg" width="23%" height="23%">
+   <img src="images/android-screenshot-8.jpg" width="23%" height="23%">
 </div>
-<div>
-   <img src="images/android-screenshot-2.jpg" width="30%" height="30%">
-   <img src="images/android-screenshot-3.jpg" width="30%" height="30%">   
-   <img src="images/android-screenshot-4.jpg" width="30%" height="30%">
-   <img src="images/android-screenshot-5.jpg" width="30%" height="30%">
-   <img src="images/android-screenshot-6.jpg" width="30%" height="30%">
-   <img src="images/android-screenshot-7.jpg" width="30%" height="30%">
-</div>
-<div align="center">
-    <img src="images/ios-screenshot-8.jpg" width="30%" height="30%">
-</div>
+<br>
+<br>
 
-
-#### iOS Version
+#### Apple iOS Version
 <div align="center">
-    <img src="images/ios-screenshot-1.jpg" width="30%" height="30%">
-</div>
-<div>
-   <img src="images/ios-screenshot-2.jpg" width="30%" height="30%">
-   <img src="images/ios-screenshot-3.jpg" width="30%" height="30%">   
-   <img src="images/ios-screenshot-4.jpg" width="30%" height="30%">
-   <img src="images/ios-screenshot-5.jpg" width="30%" height="30%">
-   <img src="images/ios-screenshot-6.jpg" width="30%" height="30%">
-   <img src="images/ios-screenshot-7.jpg" width="30%" height="30%">
-</div>
-<div align="center">
-    <img src="images/ios-screenshot-8.jpg" width="30%" height="30%">
-</div>
+   <img src="images/ios-screenshot-1.jpg" width="23%" height="23%">
+   <img src="images/ios-screenshot-2.jpg" width="23%" height="23%">
+   <img src="images/ios-screenshot-3.jpg" width="23%" height="23%">   
+   <img src="images/ios-screenshot-4.jpg" width="23%" height="23%">
+ </div>
+ <br>
+ <br>
+ <div align="center">
+   <img src="images/ios-screenshot-5.jpg" width="23%" height="23%">
+   <img src="images/ios-screenshot-6.jpg" width="23%" height="23%">
+   <img src="images/ios-screenshot-7.jpg" width="23%" height="23%">
+    <img src="images/ios-screenshot-8.jpg" width="23%" height="23%">
+ </div>
+<br>
+<br>
 
    
 ### Built With
