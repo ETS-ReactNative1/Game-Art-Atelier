@@ -220,5 +220,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [issues-shield]: https://img.shields.io/github/issues/hffriman/Game-Art-Atelier.svg?style=for-the-badge
 [issues-url]: https://github.com/hffriman/Game-Art-Atelier/issues
 [license-shield]: https://img.shields.io/github/license/hffriman/Game-Art-Atelier.svg?style=for-the-badge
-[license-url]: https://github.com/hffriman/Game-Art-Atelier/LICENSE.txt
+[license-url]: https://github.com/hffriman/Game-Art-Atelier/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
