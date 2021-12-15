@@ -85,7 +85,6 @@ A Video Game Art Gallery: My Final Project for the Course "Mobile Programming" o
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -139,6 +138,7 @@ You can also use this app to send feedback to me (the developer) by using the Fe
  </div>
 <br>
 <br>
+<br>
 
    
 ### Built With
@@ -189,8 +189,8 @@ If you want to run this project in your app, there are things you have to do fir
     TWITCH_AUTHORIZATION = YOUR TOKEN TYPE YOUR CLIENT SECRET
     ```
 4. Replace YOUR CLIENT ID, YOUR TOKEN TYPE and YOUR CLIENT SECRET with the values you are granted: <br>
-    - Tip 1: The Token Type's First Letter Must Be In Capital (example: bearer -> Bearer)** <br>
-    - Tip 2: There Must Be Space Between Token Type and the Client Secret (only one space)** <br>
+    **- Tip 1: The Token Type's First Letter Must Be In Capital (example: bearer -> Bearer)** <br>
+    **- Tip 2: There Must Be Space Between Token Type and the Client Secret (only one space)** <br>
 
 5. Launch the app when you are ready:
     ```sh
