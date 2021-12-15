@@ -134,13 +134,13 @@ const styles = StyleSheet.create({
    backgroundColor: '#FCFDCF',
    borderWidth: 10,
    padding: 9,
-   borderColor: '#9D299D',
+   borderColor: '#9D8029',
    alignItems: 'center',
    justifyContent: 'center',
   },
   searchbar:{
    borderWidth: 7,
-   borderColor: '#9D299D',
+   borderColor: '#9D8029',
   },
   button: {
    flexDirection: 'row',
