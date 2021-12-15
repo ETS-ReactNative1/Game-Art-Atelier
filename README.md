@@ -215,7 +215,7 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 ## Contributing
 
 If you have any interests of making enhancements to this project, feel free to fork the repository and create a pull request.
-If you have only ideas, don't worry: you can always share them by opening an issue with the "enhancement" tag.
+If you have only ideas, don't worry: you can always share them by opening an issue with the tag "enhancement".
 Your contribution, in any shape or form, will always be appreciated!
 
 Please consider giving this project a star, as well. Thank you very much!
@@ -243,7 +243,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Henry Friman
-  * Twitter: [@hhhfennec](https://twitter.com/@hfffennec)
+  * Twitter: [@hffriman](https://twitter.com/@hfffennec)
   * Mail: henfriman.second@gmail.com
   * Link to My Profile: [https://github.com/hffriman](https://github.com/hffriman)
   * Link to this project: [https://github.com/hffriman/Game-Art-Atelier](https://github.com/hffriman/Game-Art-Atelier)
