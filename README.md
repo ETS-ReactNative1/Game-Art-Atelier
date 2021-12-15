@@ -244,7 +244,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Henry Friman
   * Twitter: [@hffriman](https://twitter.com/@hfffennec)
-  * Mail: henfriman.second@gmail.com
+  * Mail Adddress: henfriman.second@gmail.com
   * Link to My Profile: [https://github.com/hffriman](https://github.com/hffriman)
   * Link to this project: [https://github.com/hffriman/Game-Art-Atelier](https://github.com/hffriman/Game-Art-Atelier)
 
