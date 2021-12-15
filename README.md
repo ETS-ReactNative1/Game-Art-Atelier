@@ -250,7 +250,13 @@ Henry Friman
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
 
+* The structure of this documentation is based on the Best-README-Template:
+  * https://github.com/othneildrew/Best-README-Template
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
