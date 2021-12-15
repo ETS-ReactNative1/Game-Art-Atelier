@@ -25,7 +25,6 @@ A Video Game Art Gallery: My Final Project for the Course "Mobile Programming" o
 [![MIT License][license-shield]][license-url]
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -87,6 +86,11 @@ A Video Game Art Gallery: My Final Project for the Course "Mobile Programming" o
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]]
+
+<div align="center"> 
+  <b>Try the App Here (with Expo Mobile App):</b>
+  <p>https://expo.dev/@hffriman/Game-Art-Atelier</p>
+</div>
 
 ### Introduction
 
@@ -210,8 +214,11 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 <!-- CONTRIBUTING -->
 ## Contributing
 
-If you have any ideas or interests regarding the enhancement of this project, feel free to fork the repository and create a pull request. 
-You can also simply open an issue with the tag "enhancement". Your contribution will always be appreciated in any shape or form!
+If you have any interests of making enhancements to this project, feel free to fork the repository and create a pull request.
+If you have only ideas, don't worry: you can always share them by opening an issue with the "enhancement" tag.
+Your contribution, in any shape or form, will always be appreciated!
+
+Please consider giving this project a star, as well. Thank you very much!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
