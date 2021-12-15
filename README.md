@@ -59,6 +59,10 @@ A Video Game Art Gallery: My Final Project for the Course "Mobile Programming" o
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#introduction">Introduction</a></li>
+        <li><a href="#screenshots">Screenshots</a></li>
+        <ul>
+          <li><a href="#androi">Screenshots</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
