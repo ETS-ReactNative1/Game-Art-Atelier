@@ -143,7 +143,6 @@ You can also use this app to send feedback to me (the developer) by using the Fe
    
 ### Built With
 
-* [React.js](https://reactjs.org/)
 * [React Native](https://reactnative.dev/)
 * [Expo](https://expo.dev/)
 * [IGDB](https://api-docs.igdb.com/#about)
