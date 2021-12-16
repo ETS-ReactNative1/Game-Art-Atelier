@@ -147,6 +147,8 @@ You can also use this app to send feedback to me (the developer) by using the Fe
 * [React Native](https://reactnative.dev/)
 * [Expo](https://expo.dev/)
 * [IGDB](https://api-docs.igdb.com/#about)
+* [SQLite](https://www.sqlite.org/index.html)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
