@@ -85,8 +85,6 @@ A Video Game Art Gallery: My Final Project for the Course "Mobile Programming" o
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
-
 <div align="center"> 
   <b>Try the App Here (with Expo Mobile App):</b>
   <p>https://expo.dev/@hffriman/Game-Art-Atelier</p>
