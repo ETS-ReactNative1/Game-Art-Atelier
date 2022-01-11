@@ -1,5 +1,5 @@
 # Game-Art-Atelier
-A Video Game Art Gallery: My Final Project for the Course "Mobile Programming" of Haaga-Helia UAS
+A Video Game Art Gallery: My Final Project in the Course "Mobile Programming" of Haaga-Helia UAS
 
 <div id="top"></div>
 <!--
