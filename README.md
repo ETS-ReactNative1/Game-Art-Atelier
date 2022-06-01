@@ -186,12 +186,12 @@ If you want to run this project in your app, there are things you have to do fir
    ```
 3. Create a file .env in the root of your project and add these inside of it:
     ```
-    TWITCH_CLIENT_ID = YOUR CLIENT ID
-    TWITCH_AUTHORIZATION = YOUR TOKEN TYPE YOUR CLIENT SECRET
+    TWITCH_CLIENT_ID = [YOUR CLIENT ID]
+    TWITCH_APP_ACCESS_TOKEN = [YOUR TOKEN TYPE] [YOUR ACCESS TOKEN]
     ```
-4. Replace YOUR CLIENT ID, YOUR TOKEN TYPE and YOUR CLIENT SECRET with the values you are granted: <br>
+4. Replace [YOUR CLIENT ID], [YOUR TOKEN TYPE] and [YOUR ACCESS TOKEN] with the values you are granted: <br>
    * **Tip 1: The Token Type's First Letter Must Be In Capital (example: bearer -> Bearer)** <br>
-   * **Tip 2: There Must Be Space Between Token Type and the Client Secret (only one space)** <br>
+   * **Tip 2: There Must Be Space Between Token Type and the Access Token** <br>
 
 5. Launch the app when you are ready:
     ```sh
