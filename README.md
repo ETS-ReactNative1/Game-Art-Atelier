@@ -191,7 +191,7 @@ If you want to run this project in your app, there are things you have to do fir
     ```
 4. Replace [YOUR CLIENT ID], [YOUR TOKEN TYPE] and [YOUR ACCESS TOKEN] with the values you are granted: <br>
    * **Tip 1: The Token Type's First Letter Must Be In Capital (example: bearer -> Bearer)** <br>
-   * **Tip 2: There Must Be Space Between Token Type and the Access Token** <br>
+   * **Tip 2: There Must Be One Space Between Token Type and the Access Token** <br>
 
 5. Launch the app when you are ready:
     ```sh
